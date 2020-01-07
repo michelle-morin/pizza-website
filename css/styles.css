@@ -1,0 +1,25 @@
+body {
+  background-color: #FAE6E7;
+  text-align: center;
+}
+
+h3 {
+  font-size: 28px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+h1 {
+  font-size: 36px;
+  text-decoration: underline;
+  text-decoration-color: #A0095C;
+  background-color: #E752A3;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+h4 {
+  font-size: 20px;
+}
